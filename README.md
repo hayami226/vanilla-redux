@@ -1,3 +1,3 @@
 # Vanilla Redux
 
-Leaning Vanilla-Redux and React-Redux
+Leaning Vanilla-Redux and React-Redux!!
