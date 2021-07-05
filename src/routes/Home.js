@@ -33,7 +33,7 @@ function mapStateToProps(state) {
 // store의 state에 저장(dispatch)
 function mapDispatchToProps(dispatch) {
     return {
-        addToDo: text => dispatch(actionCreators.addToDo(text));
+        addToDo: text => dispatch(actionCreators.addToDo(text))
     };
 }
 
